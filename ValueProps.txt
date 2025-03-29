@@ -1,0 +1,169 @@
+3 Step Frame Work:
+    1.define 2.evaluate 3. build
+Value prop Statement:
+    for:who(target customer)
+    dissatisfied with: what they want for satisafction.
+    due to:the problem of customer
+    offers a:the solution that you offer
+    that provides:the key benfits of your solution.
+
+Define:
+    who -people in andhra
+        -who are hindus
+        -restaurants
+    evryone?
+    a segment?
+    what is that segment?
+    minimum valuble segment
+
+User vs Customer:
+Ask the customer about the product.
+    What:
+        problem well stated is half solved.
+
+$4U's:problems worth solving usally
+    unworkable:StartUp secret--->if the consequences are costly or painful,so much the better.who get's fired if it doesnt work.
+                if doesnt do no jobs and employemnt.
+                B2B and B2C
+                what is at the root.-->ask the user 90% and get their view point.
+     
+    unavoidable:is the problem so fundamenta you can not avoid it and jsut have to comply?
+                two examples we all face?
+                --taxes
+                --aging(death)
+                accounting 
+                government 
+    urgent:if you are not at the top ofthe list,are you at least in te top theree?if not,will you get moved up overtime.why?
+
+                relative to other needs: we will compete with others.
+
+    undeserved: you will compete in a zero sum game.
+                you are competing for finite resources:
+                -time
+                -money
+                -people
+                -attention
+Define the market need:is it BLACK & WHITE
+                            -Blatent:
+                            -latent:
+                            -Aspirational:late need look good
+                            -Critical:important ipad
+                      :does the market need to have a DEBT?
+                       -what dependencies are involved?
+                       -What external factors involved?
+                       -would you face any black slash?
+                       -what is the timimg?
+
+StartUp Oppertunity?
+    -Faster: 
+    -Cheper: 10%
+    -Better:
+
+Define the solution.
+    -Disruptive? :business or techonolgy (change the game) breakthrough. pick low prices and fast deliveryies AMAZON...
+    -Discontinuous? :somenthing you could not do before this?(cloud computing-ilab)
+    -Defensible? :moats
+                defensibility from the outset
+                property ip,govt licence,favorable location,favorable long term contract,minimum efficient scale facility,access ton data(google,facebook,blooberg) 
+    (*=Differnt enough-evaluate next section)
+                defensibilty with scale:
+
+My proj:
+    Disruptive: no one doing business here and selling products to others.
+    Discontinuous: my idea to sell the product from stores
+    Defensible: contarct with gov and amke fuure better.
+      insted of(better,chepaer,faster)
+
+Evaluate:
+Value Matrix:
+    Value = Benefits - Cost
+    Monetary benefits:
+        -revenue increase
+        -cost reduction
+        -time savings
+    Non-monetary benefits:
+        -risk reduction 
+        -convenience
+        -status/image
+    Hard costs:
+        -purchase price
+        -maintenance
+        -training
+    Soft costs:
+        -risk
+        -effort
+        -political capital
+
+Qualitative evolution:
+    product status:
+    Before              |       after
+                vitamin vs pencilin
+    actual pain         |       absolute joy
+
+                                jobs for people
+
+Gain of Adoption:
+-convenience
+-speed of trasfer
+-ease of use                GAIN----------BALENCED-----------PAIN
+-Fun to use
+-Network useEffect
+etc
+
+-yet another app
+-most securit bank
+-security risk
+-not everyone has it
+-Trust issue-Sending money to wrong people.
+
+ask user? not all things
+    why wolud you not buying my product.    GAIN----------------Inertiarisk--------PAIN
+
+Inertia to adoption:
+do i really need this?
+cant i use my mobile banking app?
+or split bil with two debit cards?
+risk using a startup for money transfer?
+
+what is right ratio?
+    30 % 90.
+    gain  pain ration needed to good
+    gain >10 and pain will be below 10
+
+****Added security measures
+****easy signup
+****QR code scan to i.d.users+4 digit conformation
+****Network effect everyone on it.
+
+Customer view and gain pain Ratio:
+    GAIN:
+        -Revenue
+        -Cost savings
+        -time
+        -people                                   
+        -competative advantage
+        -repuattaionn
+
+        [
+        -Inertia
+        -Switchng costs
+        -defaul do nothing                  Gain------(>10) intertia Ratio ------Pain  --------this middle of gain and pain
+        -alternatives
+        -Good enough=good enough!
+        -risk on startup
+        ]
+
+    PAIN:
+        -find(see)
+        -try
+        -buy
+        -implement
+        -deployment
+        -own eg., TCO
+
+
+
+
+
+
+    
